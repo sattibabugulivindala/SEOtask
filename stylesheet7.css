@@ -1,0 +1,150 @@
+.headermenu{
+    background-color: rgb(7, 7, 7);
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-around;
+    color: red;
+    text-align: right;
+}
+.headermenu a{
+    font-size: 30px;
+    color: red;
+    padding-right: 15px;
+}
+.div1{
+    background-image: url("https://media.istockphoto.com/id/1313408982/photo/german-muscle-car-on-black-background-3d-render-illustration.webp?b=1&s=170667a&w=0&k=20&c=P0VjXo6cb5LEmvI5MtwZm8SpHcyS90iurRiJZxy-1JI=");
+    background-size: cover;
+    height: 100vh;
+}
+.heading {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+.paragraph {
+    font-size: 70px;
+    color: white;
+    text-align: center;
+}
+.div2 {
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKgAAAEsCAMAAABgwwj8AAAAP1BMVEX9/f39/vn8/f39/fv9/f/5/vz9/vr0/f74/f3y/v71/f/2/v3t/v3w/v7z/vz2//v++vP5+PXo/v/r/P//+fR8p2CTAAABIUlEQVR4nO3Yy27CMBBAUezYsfMCGvr/31pAqmCBBJs2sXTOMqurcTxScjgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMBfSVsHfCTnGrdu+ESajm2ExlLq1g0fObUSOg5jaeLor6G1hVsfx6E0EBpTHsYpb53xXkz12MA8r0s0nhpZ94fYwLnftXDuAAAA8G9SjDmXKYe9fzHHPJYynPrQbV3yRqzLMq/5HPrfJ13f7y86xrHM6+XydX60dWF/0035OMzzupbz3kPTuCzrfDl9P+JC6EPYtOqFVMsyL0MJT0MMN1tGvRLrVOtxys93/jrPx8XajXj/gdt1zy9lv8POdIjptujT07ZP1+q9L38AAIDW/ABivwT1SNSFJgAAAABJRU5ErkJggg==");
+    background-size: cover;
+    height: 100vh;
+}
+.heading1 {
+    font-size: 70px;
+    color: black;
+    text-align: center;
+}
+.paragraph1 {
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+.image1 {
+    height: 30vh;
+    width:30vw ;
+}
+.imagehead {
+    font-size: 30px;
+    color: black;
+    padding-left: 120px;
+
+}
+.imagepara {
+    font-size: 15;
+    color: gray;
+    padding-left: 110px;
+}
+.div3,.div4,.div5 {
+    display: inline-block;
+}
+.heading2 {
+    font-size: 80px;
+    color: white;
+    text-align: center;
+}
+.paragraph2 {
+    font-size: 50px;
+    color: red;
+    text-align: center;
+}
+.div8 {
+    font-size: 20px;
+    color: red;
+    padding-left: 120px;
+}
+.div9 {
+    color: white;
+    padding-left: 70px;
+}
+.image2 {
+    height: 30vh;
+    width: 25vw;
+}
+.div10{
+    color: white;
+    font-size: 20px;
+    padding-left: 100px;
+}
+.div7 {
+    display: inline-block;
+    margin-right: 20px;
+    text-align: center;
+}
+.div11{
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKgAAAEsCAMAAABgwwj8AAAAP1BMVEX9/f39/vn8/f39/fv9/f/5/vz9/vr0/f74/f3y/v71/f/2/v3t/v3w/v7z/vz2//v++vP5+PXo/v/r/P//+fR8p2CTAAABIUlEQVR4nO3Yy27CMBBAUezYsfMCGvr/31pAqmCBBJs2sXTOMqurcTxScjgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMBfSVsHfCTnGrdu+ESajm2ExlLq1g0fObUSOg5jaeLor6G1hVsfx6E0EBpTHsYpb53xXkz12MA8r0s0nhpZ94fYwLnftXDuAAAA8G9SjDmXKYe9fzHHPJYynPrQbV3yRqzLMq/5HPrfJ13f7y86xrHM6+XydX60dWF/0035OMzzupbz3kPTuCzrfDl9P+JC6EPYtOqFVMsyL0MJT0MMN1tGvRLrVOtxys93/jrPx8XajXj/gdt1zy9lv8POdIjptujT07ZP1+q9L38AAIDW/ABivwT1SNSFJgAAAABJRU5ErkJggg==");
+    background-size: cover;
+    height: 100vh;
+}
+.heading3 {
+    font-size: 80px;
+    color: black;
+    text-align: center;
+}
+.heading4 {
+    color: brown;
+    font-size: 30px;
+}
+.div12{
+    height: 30px;
+    width: 50px;
+    padding-top: 20px;
+    color: black;
+    padding-left: 40px;
+}
+.card1,.card2,.card3,.card4 {
+    display: inline-block;
+    height:150px;
+    width:260px;
+    padding-right:60px;
+    font-family:"Roboto";
+    background-color:grey;
+    color:white;
+}
+.div13 {
+    background-color: rgb(8, 8, 8);
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+.div14{
+    text-align: center;
+    color: white;
+}
+.div15{
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 10px;
+    color: white;
+}
+.div16,.div17 {
+    text-align: center;
+    padding: 15px;
+    color: white;
+}
+.div18 {
+    text-align: center;
+    padding: 15px;
+    color: white;
+}
